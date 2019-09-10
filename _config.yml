@@ -70,6 +70,7 @@ social-network-links:
   email: "smc4@williams.edu"
   facebook: Sophia Clement
   github: smc4
+  twitter:
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -85,12 +86,13 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
+  twitter: true
   facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://sophiacs103.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
