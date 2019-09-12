@@ -211,7 +211,7 @@ prose:
     - /js
   metadata:
     _posts:
-      - name: "layout"
+      - name: "My first post"
         field:
           element: "hidden"
           value: "post"
