@@ -63,11 +63,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "smc4@williams.edu"
-  facebook: "facebook.com/sophianeydi.clement"
+  facebook: 
   twitter: "https://twitter.com/SophiaClement"
-  linkedin: daattali
-  snapchat: deanat78
-  instagram: deanat78
+  linkedin: "https://www.linkedin.com/in/sophia-clement-931a0b182"
+  snapchat: 
+  instagram: 
 
 # Select which share links to show in posts
 share-links-active:
