@@ -55,7 +55,7 @@ footer-link-col: "#40376E"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Sophia Clement
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -67,18 +67,12 @@ social-network-links:
   facebook: Sophia Clement
   github: smc4
   twitter:
-#  reddit: yourname
 #  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
 #  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -88,7 +82,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "smc4.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "smc4.github.io" 
 
 # --- Web Statistics Section --- #
 
