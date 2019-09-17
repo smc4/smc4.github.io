@@ -8,81 +8,33 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/settings?tab=account&section=username"
+  baseURL: "facebook.com/sophianeydi.clement"
   icon: "fa-facebook"
 
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/"
+  baseURL: "https://twitter.com/SophiaClement"
   icon: "fa-twitter"
 
-reddit:
-  name: "Reddit"
-  baseURL: "https://reddit.com/u/"
-  icon: "fa-reddit"
+
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+  baseURL: "mailto:smc4@williams.edu"
   icon: "fa-envelope"
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
+  baseURL: "https://www.linkedin.com/in/sophia-clement-931a0b182"
   icon: "fa-linkedin"
-
-xing:
-  name: "Xing"
-  baseURL: "https://www.xing.com/profile/"
-  icon: "fa-xing"
-
-stackoverflow:
-  name: "StackOverflow"
-  baseURL: "https://stackoverflow.com/users/"
-  icon: "fa-stack-overflow"
 
 snapchat:
   name: "Snapchat"
-  baseURL: "https://www.snapchat.com/add/"
+  baseURL: "https://www.snapchat.com/add/phia_1224"
   icon: "fa-snapchat-ghost"
 
 instagram:
   name: "Instagram"
-  baseURL: "https://www.instagram.com/"
+  baseURL: "https://www.instagram.com/phia12_24/"
   icon: "fa-instagram"
-
-youtube:
-  name: "YouTube"
-  baseURL: "https://www.youtube.com/"
-  icon: "fa-youtube"
-
-spotify:
-  name: "Spotify"
-  baseURL: "https://open.spotify.com/user/"
-  icon: "fa-spotify"
-
-telephone:
-  name: "Phone"
-  baseURL: "tel:"
-  icon: "fa-phone"
-
-rss:
-  name: "RSS"
-  baseURL: "{{ '/feed.xml' | relative_url }}"
-  icon: "fa-rss"
-
-steam:
-  name: "Steam"
-  baseURL: "https://steamcommunity.com/id/"
-  icon: "fa-steam"
-
-twitch:
-  name: "Twitch"
-  baseURL: "https://www.twitch.tv/"
-  icon: "fa-twitch"
-
-yelp:
-  name: "Yelp"
-  baseURL: "https://{{ site.author.yelp }}.yelp.com"
-  icon: "fa-yelp"
