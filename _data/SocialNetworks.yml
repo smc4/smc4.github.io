@@ -8,13 +8,9 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/"
+  baseURL: "https://www.facebook.com/settings?tab=account&section=username"
   icon: "fa-facebook"
 
-github:
-  name: "GitHub"
-  baseURL: "https://github.com/"
-  icon: "fa-github"
 
 twitter:
   name: "Twitter"
