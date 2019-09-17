@@ -8,7 +8,7 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "facebook.com/sophianeydi.clement"
+  baseURL: "https://facebook.com/sophianeydi.clement"
   icon: "fa-facebook"
 
 
