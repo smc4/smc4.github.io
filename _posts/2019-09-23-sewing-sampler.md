@@ -1,7 +1,8 @@
 ---
 layout: post
 title: My Sewing Sampler
-image: /img/IMG_9925.JPG
+bigimg: /img/IMG_9925.JPG
+tags: [sewing, beginner, stitches]
 ---
 
 This is my sewing sampler!
