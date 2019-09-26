@@ -1,7 +1,6 @@
 ---
 layout: post
 title: If...Else Practice on C
-bigimg: /img/Screen Shot 2019-09-25 at 11.03.29 PM.png
 tags: [programming, beginner]
 ---
 
