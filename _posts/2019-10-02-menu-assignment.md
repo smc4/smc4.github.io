@@ -4,7 +4,7 @@ title: Regular and Secret Menu Orders
 tags: [programming, beginner, assignment, coding]
 ---
 This assignment required us to practice using nested if statements.
-To do that, we had to come up with code that determined whether customer ordered from the regular menu by picking an even number
+To do that, we had to come up with code that determined whether customers ordered from the regular menu by picking an even number
 or from the secret menu by picking an odd number. 
 Then, once the customer has chosen their menu, they pick one of three options from their chosen menu.
 Since not all customers should know there is a secret menu, the output only displays the food that the person ordered.
