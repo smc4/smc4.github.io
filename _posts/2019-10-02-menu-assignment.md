@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Regular and Secret Menu Orders
-bigimg: /img/Screen Shot 2019-10-02 at 4.36.16 PM.png
 tags: [programming, beginner, assignment, coding]
 ---
 This assignment required us to practice using nested if statements.
