@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Regular and Secret Menu Orders
-bigimg: /img/IMG_9925.JPG
+bigimg: /img/Screen Shot 2019-10-02 at 4.36.16 PM.png
 tags: [programming, beginner, assignment, coding]
 ---
 This assignment required us to practice using nested if statements.
@@ -13,7 +13,7 @@ If they pick anything other than the three options on the menu, a message will l
 and kindly ask them to pick one of those.
 
 This is the output for my code:
-![Menu Output](/img/IMG_9925.JPG){: .center-block :}
+![Menu Output](/img/Screen Shot 2019-10-02 at 4.36.16 PM.png){: .center-block :}
 
 A tip I might give my past self for completing this would be to look at the curvy brackets!
 Make sure you are placing code in the right places relative to these brackets.
