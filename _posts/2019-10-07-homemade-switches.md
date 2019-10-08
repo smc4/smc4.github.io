@@ -14,7 +14,7 @@ For my design, I sewed conductive thread into it and used regular thread to keep
 I then sewed conductive thread next to it so that, when I touch them together, they help close the circuit.
 
 ![Paper Prototype](/img/IMG_0069.JPG){: .center-block :}
-![Alligator Clip Prototype](/img/){: .center-block :}
+![Alligator Clip Prototype](/img/IMG_0034.JPG){: .center-block :}
 ![Front](/img/){: .center-block :}
 ![Back](/img/){: .center-block :}
 
