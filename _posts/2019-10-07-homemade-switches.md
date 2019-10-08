@@ -16,7 +16,7 @@ I then sewed conductive thread next to it so that, when I touch them together, t
 ![Paper Prototype](/img/IMG_0069.JPG){: .center-block :}
 ![Alligator Clip Prototype](/img/IMG_0034.JPG){: .center-block :}
 ![Front](/img/IMG_0067.JPG){: .center-block :}
-![Back](/img/){: .center-block :}
+![Back](/img/IMG_0068.JPG){: .center-block :}
 
 A tip I might give my past self for completing this would be to consider size when prototyping.
 It is easier to place things where I want on paper, but then I have to consider the real sizes of what I am working with.
