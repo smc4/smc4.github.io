@@ -13,7 +13,7 @@ The other switch is a conductive thread patch.
 For my design, I sewed conductive thread into it and used regular thread to keep it in place.
 I then sewed conductive thread next to it so that, when I touch them together, they help close the circuit.
 
-![Paper Prototype](/img/){: .center-block :}
+![Paper Prototype](/img/IMG_0069.JPG){: .center-block :}
 ![Alligator Clip Prototype](/img/){: .center-block :}
 ![Front](/img/){: .center-block :}
 ![Back](/img/){: .center-block :}
