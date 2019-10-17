@@ -10,6 +10,6 @@ There were three sets in total: the Flash Bulb, the Syncronous, and the Big Dipp
 
 ![Flash Bulb](/img/IMG_0165.JPG){: .center-block :}
 ![Synchronous](/img/IMG_0168.JPG){: .center-block :}
-![Big Dipper](/img/){: .center-block :}
+![Big Dipper](/img/IMG_0169.JPG){: .center-block :}
 
 A hint for completing this project would be to 
