@@ -1,14 +1,14 @@
 ---
 layout: post
 title: All Together Now!
-bigimg: /img/
+bigimg: /img/IMG_0316.JPG
 tags: [programming, beginner, ino, lilypad]
 ---
 
 This assignment required us to take the different patterns of our previous assignment so that all the lights would start flashing at the same time.
 The picture below presents the three different LEDs that were light up by the different patterns we programmed.
 
-![Sampler](/img/){: .center-block :}
+![Sampler](/img/IMG_0316.JPG){: .center-block :}
 
 The biggest take away I got from this was the importance of if statement placement.
 Most of my code worked until I got to the big dipper firefly.
