@@ -6,7 +6,7 @@ tags: [programming, beginner, ino, lilypad]
 ---
 
 This assignment required us to take the different patterns of our previous assignment so that all the lights would start flashing at the same time.
-The picture below presents the three different LEDs that were light up by the different patterns we programmed.
+The picture below presents the three different LEDs that were lit up by the different patterns we programmed.
 
 ![Sampler](/img/IMG_0316.JPG){: .center-block :}
 
