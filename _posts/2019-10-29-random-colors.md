@@ -7,7 +7,7 @@ tags: [programming, beginner, programmer]
 
 This assignmemt involved working with Arduino and our Lilypad USB Plus boards.
 The goal was to program the onboard RGB LED to display a random RGB color.
-The light should only go on when the button is pressed and only turn off the button is not pressed.
+The light should only go on when the button is pressed and only turn off when the button is not pressed.
 Basically, the light should be on as long as the button is pressed and be a different color each time the button is pressed.
 
 ![One of the random colors](/img/IMG_0330.JPG){: .center-block :}
