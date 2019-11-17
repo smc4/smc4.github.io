@@ -9,3 +9,5 @@ This is my current idea for what I'd like to do, but I'm looking forward to gett
 Also, my computer would not allow me to do 1300x730 pixels, so the closest I could get was 1300x731 pixels.
 
 ![Proposal Slide](/img/CS 103 project proposal.jpg){: .center-block :}
+
+Updates Materials: small pieces of green, blue, and red felt
