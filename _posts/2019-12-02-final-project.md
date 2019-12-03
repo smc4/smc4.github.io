@@ -27,7 +27,10 @@ Materials:
 Here is the revised Paper Prototype of my project.
 I updated any previous mistakes and tried to correspond the pins to what my project actually uses.
 This is why you see some "overlapping threads" because the prototype is slightly different from how the project actually looks.
-![Screenshot of Revised Paper Prototype](/img/){: .center-block :}
+![Screenshot of Revised Paper Prototype](/img/CS 103 project proposal.pptx){: .center-block :}
+
+Next is a picture of my working alligator clip prototype before I sewed everything together.
+![Working Alligator Clip Prototype](/img/){: .center-block :}
 
 If I could give myself advice when I was starting this, it would be to maybe plan out what I want to do first and then put it into code.
 Sometimes it can be hard to translate English into the language of c, so make it easier on yourself by picturing what you want first and then programming that.
