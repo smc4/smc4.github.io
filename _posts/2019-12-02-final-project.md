@@ -30,7 +30,12 @@ This is why you see some "overlapping threads" because the prototype is slightly
 ![Screenshot of Revised Paper Prototype](/img/CS 103 project proposal.pptx){: .center-block :}
 
 Next is a picture of my working alligator clip prototype before I sewed everything together.
-![Working Alligator Clip Prototype](/img/){: .center-block :}
+![Working Alligator Clip Prototype](/img/IMG_0816.JPG){: .center-block :}
+
+The next 3 photos show different stages of my project!
+![Stage 1](/img/){: .center-block :}
+![Stage 2](/img/){: .center-block :}
+![Stage 3](/img/){: .center-block :}
 
 If I could give myself advice when I was starting this, it would be to maybe plan out what I want to do first and then put it into code.
 Sometimes it can be hard to translate English into the language of c, so make it easier on yourself by picturing what you want first and then programming that.
