@@ -27,7 +27,7 @@ Materials:
 Here is the revised Paper Prototype of my project.
 I updated any previous mistakes and tried to correspond the pins to what my project actually uses.
 This is why you see some "overlapping threads" because the prototype is slightly different from how the project actually looks.
-![Screenshot of Revised Paper Prototype](/img/CS 103 project proposal.pptx){: .center-block :}
+![Screenshot of Revised Paper Prototype](/img/CS 103 project curcuit diagram.jpg){: .center-block :}
 
 Next is a picture of my working alligator clip prototype before I sewed everything together.
 ![Working Alligator Clip Prototype](/img/IMG_0816.JPG){: .center-block :}
@@ -37,5 +37,7 @@ The next 3 photos show different stages of my project!
 ![Stage 2](/img/){: .center-block :}
 ![Stage 3](/img/){: .center-block :}
 
-If I could give myself advice when I was starting this, it would be to maybe plan out what I want to do first and then put it into code.
-Sometimes it can be hard to translate English into the language of c, so make it easier on yourself by picturing what you want first and then programming that.
+One tip I would give myself is never underestimate the sewing.
+Throughout this semester I've been really good at getting my projects to work.
+I thought that my main challenge would just be how long it would take to sew, but I was actually having trouble getting my project to work once I sewed everything.
+I would practice sewing more and not underestimate the difficulty of it.
