@@ -35,9 +35,12 @@ Next is a picture of my working alligator clip prototype before I sewed everythi
 The next 3 photos show different stages of my project!
 ![Stage 1](/img/IMG_0814.JPG){: .center-block :}
 ![Stage 2](/img/IMG_0817.JPG){: .center-block :}
-![Stage 3](/img/){: .center-block :}
+![Stage 3](/img/IMG_0819.JPG){: .center-block :}
 
 One tip I would give myself is never underestimate the sewing.
 Throughout this semester I've been really good at getting my projects to work.
 I thought that my main challenge would just be how long it would take to sew, but I was actually having trouble getting my project to work once I sewed everything.
 I would practice sewing more and not underestimate the difficulty of it.
+The next tip would be to remember that inputs and outputs should not share a pin.
+I made the mistake of drawing this on my first paper prototype but was reminded that this would not be a good idea.
+My third tip is to keep at most 3 LEDs per pin, because any more could create a power loss that would affect the circuit.
