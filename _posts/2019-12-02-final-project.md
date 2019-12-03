@@ -33,7 +33,7 @@ Next is a picture of my working alligator clip prototype before I sewed everythi
 ![Working Alligator Clip Prototype](/img/IMG_0816.JPG){: .center-block :}
 
 The next 3 photos show different stages of my project!
-![Stage 1](/img/){: .center-block :}
+![Stage 1](/img/IMG_0814.JPG){: .center-block :}
 ![Stage 2](/img/){: .center-block :}
 ![Stage 3](/img/){: .center-block :}
 
